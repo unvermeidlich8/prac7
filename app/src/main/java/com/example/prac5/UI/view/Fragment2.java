@@ -1,4 +1,4 @@
-package com.example.prac5;
+package com.example.prac5.UI.view;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -9,6 +9,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
+
+import com.example.prac5.R;
 
 
 public class Fragment2 extends Fragment {
